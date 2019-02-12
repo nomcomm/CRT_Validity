@@ -8,12 +8,13 @@ Data and analysis code for *Baldwin, J. & Schmaelzle, R. (2019).Applying Facial 
 <img align="right" width=300px src=data/explainer_fig.png> 
 
 
+
 ### Code
-* The [notebook to reproduce all main results](https://github.com/nomcomm/CRT_Validity/blob/master/scripts/01_script.ipynb)
+* The [notebook to reproduce all main results](https://github.com/nomcomm/CRT_Validity/tree/master/scripts)
 
 
 ### Data
-* [Required data and variable files](https://github.com/nomcomm/riskcues/tree/master/data)
+* [Required data and variable files](https://github.com/nomcomm/CRT_Validity/tree/master/data)
 
 
 ### Dependencies
@@ -25,4 +26,4 @@ The following packages are used and we feel very indebted to their creators:
 
 
 ***
-2019 | Josh Baldwin & Ralf Schmaelzle
+2019 | Joshua Baldwin & Ralf Schmaelzle
