@@ -1,6 +1,7 @@
-# Analysis for Baldwin ... (in preparation))
+# Analysis for Baldwin & Schmaelzle (2019; in preparation)
 
-Data and analysis code for *SBaldwin.....* [![DOI](http://www.ralfschmaelzle.net/wp-content/plugins/papercite/img/pdf.png)](GDRIVE linke) [External Link]
+Data and analysis code for *Baldwin, J. & Schmaelzle, R. (2019).Applying Facial Recognition Algorithms to Automatic Video-Based Content Analysis* 
+[![DOI](http://www.ralfschmaelzle.net/wp-content/plugins/papercite/img/pdf.png)] (https://docs.google.com/document/d/1PtChXY3qOaioFy-EVRoo9yFCXbriibQ8SxXEGEp9rUc/edit) 
 
 ***
 
