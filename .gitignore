@@ -6,3 +6,5 @@ scripts/.ipynb_checkpoints
 scripts/old
 data/additional
 data/old
+data/input_data
+data/output_data
